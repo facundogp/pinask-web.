@@ -1,0 +1,73 @@
+.TituloPrincipal{
+	text-align: center;
+	color: darkred;
+}
+
+.pos{
+	margin-left: 100px;
+}
+.pos2{
+	margin-left: 220px;
+}
+.pos3{
+	margin-left: 250px;
+}
+.pos4{
+	margin-left: 230px;
+}
+.pos5{
+	margin-left: 230px;
+}
+.pos6{
+	margin-left: 180px;
+}
+.pos7{
+	margin-left: 200px;
+}
+.pos8{
+	margin-left: 250px;
+}
+.pos9{
+	margin-left: 60px;
+}
+
+.posx{
+	margin-left: 25px;
+	margin-top: 20px;
+}
+.mmm {
+    margin-bottom: 35px;
+}
+---------------------------------------
+/*instrucciones generales*/
+* { margin: auto; }
+/*cabecera de la página*/
+h1 { text-align: center; padding: 0.5em; }
+/*div principal del calendario*/
+#calendario { border: 4px double black ; max-width: 536px; 
+              background-color:#fffafa; text-align: center; }
+/*tabla del calendario*/
+#diasc { border: 1px solid black; border-collapse: 
+         separate; border-spacing: 4px; }
+#diasc th,#diasc td { font: normal 14pt arial; width: 70px; height: 30px; }
+#diasc th { color: #990099; background-color: #5ecdec }
+#diasc td { color: #492736; background-color: #9bf5ff }
+/*línea de la fecha actual*/
+#fechaactual { font: bold 12pt arial; padding: 0.4em }
+#fechaactual i { cursor: pointer ; }
+#fechaactual i:hover { color: blue; text-decoration: underline; }
+/*formulario de busqueda de fechas*/
+#buscafecha { background-color: #663366; color: #9bf5ff; padding: 5px }
+#buscafecha select, #buscafecha input  { background-color: #9bf5ff; 
+            color: #990099; font: bold 10pt arial;  }
+#buscafecha [type=text]  { text-align: center; }
+#buscafecha  [type=button] { cursor: pointer; }
+/*cabecera del calendario*/ 
+#anterior { float: left; width: 100px; font: bold 12pt arial;
+          padding: 0.5em 0.1em; cursor: pointer ; }
+#posterior { float: right; width: 100px; font: bold 12pt arial; 
+          padding: 0.5em 0.1em; cursor: pointer ;}
+#anterior:hover {color: blue;text-decoration: underline;}
+#posterior:hover {color: blue; text-decoration: underline;}
+#titulos { font: normal 20pt "arial black"; padding: 0.2em; }
+-----------------------------------------------
