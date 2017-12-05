@@ -8,7 +8,7 @@ aqui hay distintas funciones:
 * busqueda avanzada para la mayor comodidad para el cliente.
 * comentarios para el clienteoueda su propia opinion.
 
-Esta pagina web se adapta a cualquier dispositivo, con el telefono, con la table o con el tele.
+
 Desarrollador:
   Garcia Pinasco facundo
   5to Año C
