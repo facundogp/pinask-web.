@@ -16,11 +16,9 @@ Desarrollador:
   Instituto Tecnico Salesiano Villada
 pinask-web.
 
-# Dependencias
-
 ## pinask-web usa un numero de dependecias para funcionar correctamente:
-* Nombre 	Descripcion.
-* FireBase 	Base de datos
+* jQuery      es un framework de javascript
+* FireBase 	  Base de datos
 * Bootstrap 	La UI para diseñar paginas web modernas
 # Informacion De La Serie
 
@@ -32,11 +30,17 @@ pinask-web.
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/Captura%20de%20pantalla_2017-12-05_14-25-27.png)
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/2.png)
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/3.png)
+* aca se pueden ver todaslas comidas y es el inicio de la pagina, en la que se puede ir a las otras funciones.
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/4.png)
+* en este calendario sepuede ver que losdias yque de comida ese dia 
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/5.png)
+* esta busqueda avanzada es otra maner practica de buscar la comida que quieres saber para ese dia
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/6.png)
+* aca aparece lainformacion personalizadade la comida y los valores nutricionales de este.
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/7.png)
+* esto es para aquellos inspiradores que quieran investigar y adentrarse un poco mas de lo que comen 
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/8.png)
+* por ultimo aqui se puede comentar libremente la opinion de cada uno.
 
 
 
