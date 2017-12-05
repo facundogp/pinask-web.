@@ -22,6 +22,11 @@ pinask-web.
 * Nombre 	Descripcion.
 * FireBase 	Base de datos
 * Bootstrap 	La UI para diseñar paginas web modernas
+# Informacion De La Serie
+
+* Contacto / Sugerencias
+* Garcia Pinasco Facundo
+* [Trello](https://trello.com/b/TX08E0Pg/pinask-web-garcia-pinasco-facundo)
 
 # Imagenes De La Pagina
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/Captura%20de%20pantalla_2017-12-05_14-25-27.png)
@@ -34,8 +39,5 @@ pinask-web.
 ![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/8.png)
 
 
-Informacion De La Serie
 
-Contacto / Sugerencias
-Garcia Pinasco Facundo
 
