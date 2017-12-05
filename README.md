@@ -24,7 +24,15 @@ pinask-web.
 * Bootstrap 	La UI para diseñar paginas web modernas
 
 # Imagenes De La Pagina
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/Captura%20de%20pantalla_2017-12-05_14-25-27.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/2.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/3.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/4.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/5.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/6.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/7.png)
+![Texto alternativo](https://github.com/facundogp/pinask-web./blob/master/8.png)
+
 
 Informacion De La Serie
 
